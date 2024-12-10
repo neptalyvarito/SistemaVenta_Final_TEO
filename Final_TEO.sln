@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_TEO", "Final_TEO.csproj", "{B738DC76-24F1-4133-A58D-2D5FBB413CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria__FinalTEO", "Libreria__FinalTEO\Libreria__FinalTEO.csproj", "{93CECEFD-BB86-4152-BB8F-ADAB340EC9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B738DC76-24F1-4133-A58D-2D5FBB413CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B738DC76-24F1-4133-A58D-2D5FBB413CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B738DC76-24F1-4133-A58D-2D5FBB413CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B738DC76-24F1-4133-A58D-2D5FBB413CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CECEFD-BB86-4152-BB8F-ADAB340EC9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CECEFD-BB86-4152-BB8F-ADAB340EC9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CECEFD-BB86-4152-BB8F-ADAB340EC9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CECEFD-BB86-4152-BB8F-ADAB340EC9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5A30429-670C-40A7-9C9B-886D5597CAB2}
+	EndGlobalSection
+EndGlobal
